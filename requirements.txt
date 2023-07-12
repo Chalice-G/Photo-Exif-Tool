@@ -1,2 +1,3 @@
-- name: Install dependencies
-  run: pip install -r requirements.txt
+pluggy>=0.12,<2.0
+exceptiongroup>=1.0.0rc8
+tomli>=1.0.0
