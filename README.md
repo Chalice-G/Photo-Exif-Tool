@@ -72,7 +72,7 @@
 
 ---
 
-[<img src="https://avatars.githubusercontent.com/u/68186151?v=4" style="zoom:25%;" />](https://github.com/Chalice-G)
+@Chalice-G
 
 ### Contributing
 
