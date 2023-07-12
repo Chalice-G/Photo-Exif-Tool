@@ -52,11 +52,19 @@
 
 1. If you have successfully generated an execuable file, double-click the file and you will see the interface. 
 
-<img src="https://img1.imgtp.com/2023/07/12/cTGMjwED.png" alt="image-20230712111325497" style="zoom:80%;" />
+<div align = center>
+
+<img src="https://img1.imgtp.com/2023/07/12/cTGMjwED.png" alt="image-20230712111325497" align = center style="zoom:80%;" />
+
+</div>
 
 2. Click on the first selection box in the window, select the image you want and the programme will read and output the exif information in the next window. You can select more than one image at the same time, which will be read and output sequentially.
 
-<img src="https://img1.imgtp.com/2023/07/12/MWJcataZ.png" alt="image-20230712111503076" style="zoom:80%;" />
+<div align = center>
+   
+<img src="https://img1.imgtp.com/2023/07/12/MWJcataZ.png" alt="image-20230712111503076" align = center style="zoom:80%;" />
+
+</div>
 
 3. There is a clickable button, when you click on it, the program will clear the exif information of the picture you selected and save it in a folder with the same name as the original file in a folder with the same level as the original file directory, the folder name is exif.
 
